@@ -710,7 +710,7 @@ a.alignright {
 }
 /*this is for the header background image*/
 #intro .bg {
-  background-image: url("../images/pritam1.png");
+  background-image: url("../images/pritam.png");
 }
 
 #intro #particles {
@@ -721,7 +721,7 @@ a.alignright {
 }
 
 #contacts .bg {
-  background-image: url("../images/pritam2.jpg");
+  background-image: url("../images/pritam1.png");
 }
 
 .widget h3 {
